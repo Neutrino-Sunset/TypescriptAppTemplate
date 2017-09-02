@@ -85,7 +85,6 @@ module.exports = {
 
 * Build using webpack `./node_modules/.bin/webpack`
 * Run application `.\dist\JavascriptApp2.js` (requires .js files to be set to open using nodejs.exe).
-
 * Create npm script to run webpack via npm by adding the following script to packages.json
 
 ```javascript
