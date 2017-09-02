@@ -1,0 +1,22 @@
+{
+  "name": "typescriptapptemplate",
+  "version": "1.0.0",
+  "description": "Template Typescript app with WebPack bundling.",
+  "main": "Main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.26",
+    "@types/underscore": "^1.8.2",
+    "ts-loader": "^2.3.4",
+    "typescript": "^2.5.2",
+    "webpack": "^3.5.5"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
